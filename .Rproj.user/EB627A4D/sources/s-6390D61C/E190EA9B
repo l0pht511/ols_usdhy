@@ -1,0 +1,25 @@
+{
+    "id": "E190EA9B",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1611831728485.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "88fa73a2f65d43c78f85f4dfadf3b8f4",
+        "name": "lm3",
+        "title": "lm3"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1611831709,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1611831728485,
+    "read_only": false,
+    "read_only_alternatives": []
+}
